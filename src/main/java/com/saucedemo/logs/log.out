@@ -1,0 +1,48 @@
+2022-05-20 17:05:333 INFO  ManageDriver :35 - Launching Chrome Browser
+2022-05-20 17:05:04 INFO  PurchasePage :81 - Enter username : 
+2022-05-20 17:05:23 INFO  PurchasePage :82 - Enter password: 
+2022-05-20 17:05:707 INFO  PurchasePage :87 - Click On: 
+2022-05-20 17:05:874 INFO  PurchasePage :92 - Click On: Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-20 17:05:969 INFO  PurchasePage :97 - Click On: Price (high to low)
+2022-05-20 17:05:960 INFO  PurchasePage :102 - Click On: ADD TO CART
+2022-05-20 17:05:38 INFO  PurchasePage :107 - Click On: ADD TO CART
+2022-05-20 17:05:138 INFO  PurchasePage :112 - Click On: 2
+2022-05-20 17:05:214 INFO  PurchasePage :116 - Click On: CHECKOUT
+2022-05-20 17:05:284 INFO  PurchasePage :121 - Enter: 
+2022-05-20 17:05:133 INFO  PurchasePage :126 - Enter: 
+2022-05-20 17:05:223 INFO  PurchasePage :131 - Enter: 
+2022-05-20 17:05:323 INFO  PurchasePage :136 - Click On: 
+2022-05-20 17:05:413 INFO  PurchasePage :141 - Click On: FINISH
+2022-05-20 17:05:147 INFO  ManageDriver :35 - Launching Chrome Browser
+2022-05-20 17:05:186 INFO  PurchasePage :81 - Enter username : [[ChromeDriver: chrome on WINDOWS (4130b470fc436badd3b5529980a0959c)] -> xpath: //input[@id='user-name']]
+2022-05-20 17:05:217 INFO  PurchasePage :82 - Enter password: [[ChromeDriver: chrome on WINDOWS (4130b470fc436badd3b5529980a0959c)] -> xpath: //input[@id='password']]
+2022-05-20 17:05:655 INFO  PurchasePage :87 - Click On: [[ChromeDriver: chrome on WINDOWS (4130b470fc436badd3b5529980a0959c)] -> xpath: //input[@id='login-button']]
+2022-05-20 17:05:893 INFO  PurchasePage :92 - Click On: [[ChromeDriver: chrome on WINDOWS (4130b470fc436badd3b5529980a0959c)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-20 17:05:40 INFO  PurchasePage :97 - Click On: [[ChromeDriver: chrome on WINDOWS (4130b470fc436badd3b5529980a0959c)] -> xpath: //option[@value='hilo']]
+2022-05-20 17:05:974 INFO  PurchasePage :102 - Click On: [[ChromeDriver: chrome on WINDOWS (4130b470fc436badd3b5529980a0959c)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-05-20 17:05:44 INFO  PurchasePage :107 - Click On: [[ChromeDriver: chrome on WINDOWS (4130b470fc436badd3b5529980a0959c)] -> xpath: //button[@id='add-to-cart-sauce-labs-backpack']]
+2022-05-20 17:05:106 INFO  PurchasePage :112 - Click On: [[ChromeDriver: chrome on WINDOWS (4130b470fc436badd3b5529980a0959c)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[1]/div[3]/a[1]]
+2022-05-20 17:05:183 INFO  PurchasePage :116 - Click On: [[ChromeDriver: chrome on WINDOWS (4130b470fc436badd3b5529980a0959c)] -> xpath: //button[@id='checkout']]
+2022-05-20 17:05:243 INFO  PurchasePage :121 - Enter: [[ChromeDriver: chrome on WINDOWS (4130b470fc436badd3b5529980a0959c)] -> xpath: //input[@id='first-name']]
+2022-05-20 17:05:333 INFO  PurchasePage :126 - Enter: [[ChromeDriver: chrome on WINDOWS (4130b470fc436badd3b5529980a0959c)] -> xpath: //input[@id='last-name']]
+2022-05-20 17:05:414 INFO  PurchasePage :131 - Enter: [[ChromeDriver: chrome on WINDOWS (4130b470fc436badd3b5529980a0959c)] -> xpath: //input[@id='postal-code']]
+2022-05-20 17:05:495 INFO  PurchasePage :136 - Click On: [[ChromeDriver: chrome on WINDOWS (4130b470fc436badd3b5529980a0959c)] -> xpath: //input[@id='continue']]
+2022-05-20 17:05:625 INFO  PurchasePage :141 - Click On: [[ChromeDriver: chrome on WINDOWS (4130b470fc436badd3b5529980a0959c)] -> id: finish]
+2022-05-20 17:05:966 INFO  ManageDriver :35 - Launching Chrome Browser
+2022-05-20 17:05:724 INFO  PurchasePage :81 - Enter username : standard_user to [[ChromeDriver: chrome on WINDOWS (3598bbea69da40469036ad38c072bee9)] -> xpath: //input[@id='user-name']]
+2022-05-20 17:05:733 INFO  PurchasePage :82 - Enter password: secret_sauce to [[ChromeDriver: chrome on WINDOWS (3598bbea69da40469036ad38c072bee9)] -> xpath: //input[@id='password']]
+2022-05-20 17:05:924 INFO  PurchasePage :87 - Click On: [[ChromeDriver: chrome on WINDOWS (3598bbea69da40469036ad38c072bee9)] -> xpath: //input[@id='login-button']]
+2022-05-20 17:05:163 INFO  PurchasePage :92 - Click On: [[ChromeDriver: chrome on WINDOWS (3598bbea69da40469036ad38c072bee9)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[2]/div[2]/span[1]/select[1]]
+2022-05-20 17:05:313 INFO  PurchasePage :97 - Click On: [[ChromeDriver: chrome on WINDOWS (3598bbea69da40469036ad38c072bee9)] -> xpath: //option[@value='hilo']]
+2022-05-20 17:05:344 INFO  PurchasePage :102 - Click On: [[ChromeDriver: chrome on WINDOWS (3598bbea69da40469036ad38c072bee9)] -> xpath: //button[@id='add-to-cart-sauce-labs-onesie']]
+2022-05-20 17:05:446 INFO  PurchasePage :107 - Click On: [[ChromeDriver: chrome on WINDOWS (3598bbea69da40469036ad38c072bee9)] -> xpath: //button[@id='add-to-cart-sauce-labs-backpack']]
+2022-05-20 17:05:504 INFO  PurchasePage :112 - Click On: [[ChromeDriver: chrome on WINDOWS (3598bbea69da40469036ad38c072bee9)] -> xpath: //body/div[@id='root']/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='header_container']/div[1]/div[3]/a[1]]
+2022-05-20 17:05:575 INFO  PurchasePage :116 - Click On: [[ChromeDriver: chrome on WINDOWS (3598bbea69da40469036ad38c072bee9)] -> xpath: //button[@id='checkout']]
+2022-05-20 17:05:674 INFO  PurchasePage :121 - Enter: [[ChromeDriver: chrome on WINDOWS (3598bbea69da40469036ad38c072bee9)] -> xpath: //input[@id='first-name']]
+2022-05-20 17:05:784 INFO  PurchasePage :126 - Enter: [[ChromeDriver: chrome on WINDOWS (3598bbea69da40469036ad38c072bee9)] -> xpath: //input[@id='last-name']]
+2022-05-20 17:05:869 INFO  PurchasePage :131 - Enter: [[ChromeDriver: chrome on WINDOWS (3598bbea69da40469036ad38c072bee9)] -> xpath: //input[@id='postal-code']]
+2022-05-20 17:05:943 INFO  PurchasePage :136 - Click On: [[ChromeDriver: chrome on WINDOWS (3598bbea69da40469036ad38c072bee9)] -> xpath: //input[@id='continue']]
+2022-05-20 17:05:48 INFO  PurchasePage :141 - Click On: [[ChromeDriver: chrome on WINDOWS (3598bbea69da40469036ad38c072bee9)] -> id: finish]
